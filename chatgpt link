@@ -5,4 +5,14 @@ i have devops practical so i will provide the titles of experiment guide me step
 Demonstration of various git operations on local and remote
 repository using git cheat-sheet.
 
+(surya86899/surdevopsya)
 
+expt - 4 install jenkins
+
+java -jar C:\users\\jenkins.war
+localhost:8080
+
+expt -5 java in jenkins
+cd Exp5\Exp5
+javac HelloWorld.java
+java HelloWorld
